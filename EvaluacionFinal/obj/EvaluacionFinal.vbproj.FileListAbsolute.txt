@@ -1,0 +1,75 @@
+C:\Users\marianny\Documents\Visual Studio 2005\Projects\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.exe
+C:\Users\marianny\Documents\Visual Studio 2005\Projects\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.xml
+C:\Users\marianny\Documents\Visual Studio 2005\Projects\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.pdb
+C:\Users\marianny\Documents\Visual Studio 2005\Projects\EvaluacionFinal\EvaluacionFinal\bin\Debug\EvaluacionFinal.exe.config
+C:\Users\marianny\Documents\Visual Studio 2005\Projects\EvaluacionFinal\EvaluacionFinal\bin\Debug\EvaluacionFinal.exe
+C:\Users\marianny\Documents\Visual Studio 2005\Projects\EvaluacionFinal\EvaluacionFinal\bin\Debug\EvaluacionFinal.pdb
+C:\Users\marianny\Documents\Visual Studio 2005\Projects\EvaluacionFinal\EvaluacionFinal\bin\Debug\EvaluacionFinal.xml
+C:\Users\marianny\Documents\Visual Studio 2005\Projects\EvaluacionFinal\EvaluacionFinal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\marianny\Documents\Visual Studio 2005\Projects\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.MenuPrincipal.resources
+C:\Users\marianny\Documents\Visual Studio 2005\Projects\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.Resources.resources
+C:\Users\marianny\Documents\Visual Studio 2005\Projects\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.vbproj.GenerateResource.Cache
+C:\Users\marianny\Documents\Visual Studio 2005\Projects\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.Form2.resources
+C:\Users\marianny\Documents\Visual Studio 2005\Projects\EvaluacionFinal\EvaluacionFinal\bin\Debug\proveedor.mdb
+C:\Users\marianny\Documents\Visual Studio 2005\Projects\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.ReporteClientes.rpt
+C:\Users\marianny\Documents\Visual Studio 2005\Projects\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.Reporte.resources
+C:\Users\mary.mary-PC\Desktop\EvaluacionFinal\EvaluacionFinal\bin\Debug\EvaluacionFinal.exe.config
+C:\Users\mary.mary-PC\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.exe
+C:\Users\mary.mary-PC\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.xml
+C:\Users\mary.mary-PC\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.pdb
+C:\Users\mary.mary-PC\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mary.mary-PC\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.ReporteProveedor.rpt
+C:\Users\mary.mary-PC\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.MenuPrincipal.resources
+C:\Users\mary.mary-PC\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.Resources.resources
+C:\Users\mary.mary-PC\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.registro.resources
+C:\Users\mary.mary-PC\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.Reporte.resources
+C:\Users\mary.mary-PC\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.vbproj.GenerateResource.Cache
+C:\Users\mary.mary-PC\Desktop\EvaluacionFinal\EvaluacionFinal\bin\Debug\proveedor.mdb
+C:\Users\mary.mary-PC\Desktop\EvaluacionFinal\EvaluacionFinal\bin\Debug\EvaluacionFinal.exe
+C:\Users\mary.mary-PC\Desktop\EvaluacionFinal\EvaluacionFinal\bin\Debug\EvaluacionFinal.pdb
+C:\Users\mary.mary-PC\Desktop\EvaluacionFinal\EvaluacionFinal\bin\Debug\EvaluacionFinal.xml
+F:\EvaluacionFinal\EvaluacionFinal\bin\Debug\EvaluacionFinal.exe.config
+F:\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.exe
+F:\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.xml
+F:\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.pdb
+F:\EvaluacionFinal\EvaluacionFinal\bin\Debug\proveedor.mdb
+F:\EvaluacionFinal\EvaluacionFinal\bin\Debug\EvaluacionFinal.exe
+F:\EvaluacionFinal\EvaluacionFinal\bin\Debug\EvaluacionFinal.pdb
+F:\EvaluacionFinal\EvaluacionFinal\bin\Debug\EvaluacionFinal.xml
+F:\EvaluacionFinal\EvaluacionFinal\obj\Debug\ResolveAssemblyReference.cache
+F:\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.ReporteProveedor.rpt
+F:\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.MenuPrincipal.resources
+F:\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.Resources.resources
+F:\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.registro.resources
+F:\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.Reporte.resources
+F:\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.vbproj.GenerateResource.Cache
+C:\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\bin\Debug\EvaluacionFinal.exe.config
+C:\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.exe
+C:\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.xml
+C:\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.pdb
+C:\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\bin\Debug\proveedor.mdb
+C:\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\bin\Debug\EvaluacionFinal.exe
+C:\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\bin\Debug\EvaluacionFinal.pdb
+C:\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\bin\Debug\EvaluacionFinal.xml
+C:\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.ReporteProveedor.rpt
+C:\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.MenuPrincipal.resources
+C:\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.Resources.resources
+C:\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.registro.resources
+C:\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.Reporte.resources
+C:\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.vbproj.GenerateResource.Cache
+C:\Windows.old.001\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\bin\Debug\EvaluacionFinal.exe.config
+C:\Windows.old.001\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.exe
+C:\Windows.old.001\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.xml
+C:\Windows.old.001\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.pdb
+C:\Windows.old.001\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\bin\Debug\proveedor.mdb
+C:\Windows.old.001\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\bin\Debug\EvaluacionFinal.exe
+C:\Windows.old.001\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\bin\Debug\EvaluacionFinal.pdb
+C:\Windows.old.001\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\bin\Debug\EvaluacionFinal.xml
+C:\Windows.old.001\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\ResolveAssemblyReference.cache
+C:\Windows.old.001\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.ReporteProveedor.rpt
+C:\Windows.old.001\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.MenuPrincipal.resources
+C:\Windows.old.001\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.Resources.resources
+C:\Windows.old.001\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.registro.resources
+C:\Windows.old.001\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.Reporte.resources
+C:\Windows.old.001\Users\marianny\Desktop\EvaluacionFinal\EvaluacionFinal\obj\Debug\EvaluacionFinal.vbproj.GenerateResource.Cache
